@@ -1,0 +1,15 @@
+{
+  "name": "fluff_img_resizing_server",
+  "version": "1.0.0",
+  "description": "Image Resizin Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ooeunz",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.596.0",
+    "rm": "^0.1.8"
+  }
+}
